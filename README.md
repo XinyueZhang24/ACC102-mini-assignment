@@ -46,7 +46,7 @@ IBSS accounting/finance students learning financial data analysis with Python, f
 
 ## 7. Product Link / Demo Video
 - GitHub: https://github.com/XinyueZhang24/ACC102-mini-assignment
-- Demo Video: [Your video link here]
+- Demo Video: 【ACC102 track 2 mini assignment】https://www.bilibili.com/video/BV1aeohBSEhC?vd_source=ed0e55a988ee6e72a43adade69e636d4
 
 ## 8. Limitations & Next Steps (based on current code)
 ### Limitations (code's current constraints)
